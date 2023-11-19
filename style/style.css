@@ -439,6 +439,13 @@ button .navbar-toggler-icon{
     text-align: center;
   }
 
+  @media only screen and (max-width: 542px){
+    .team .member .pic img{
+      width: 100px;
+      height: 100px;
+    }
+  }
+
   @media only screen and (max-width: 992px) {
     .col-img{
         width: 0%;
